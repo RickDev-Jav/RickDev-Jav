@@ -16,7 +16,8 @@ Aqui, É o Armário Digital onde vai se encontrar os projetos bem legais<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-</p>                     
+</p>   
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RickDev-Jav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RickDev-Jav&theme=tokyonight&hide_border=true)<br/>
