@@ -21,6 +21,8 @@ Aqui, É o Armário Digital onde vai se encontrar os projetos bem legais<br><br>
   
 </p>   
 
+https://github.com/RickDev-Jav/RickDev-Jav/issues/1#issue-5553328230
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RickDev-Jav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RickDev-Jav&theme=tokyonight&hide_border=true)<br/>
