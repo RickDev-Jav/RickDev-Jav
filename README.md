@@ -17,11 +17,7 @@ Aqui, É o Armário Digital onde vai se encontrar os projetos bem legais<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
-![Meu GIF](https://pixabay.com/pt/gifs/matriz-codifica%C3%A7%C3%A3o-programa%C3%A7%C3%A3o-25406/.gif)
-  
-</p>   
-
-https://github.com/RickDev-Jav/RickDev-Jav/issues/1#issue-5553328230
+<img width="576" height="1024" alt="Image" src="https://github.com/user-attachments/assets/5aa73b0b-6749-4baa-908b-90d1f31489b4" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RickDev-Jav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
