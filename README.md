@@ -16,6 +16,9 @@ Aqui, É o Armário Digital onde vai se encontrar os projetos bem legais<br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+
+![Meu GIF](https://pixabay.com/pt/gifs/matriz-codifica%C3%A7%C3%A3o-programa%C3%A7%C3%A3o-25406/.gif)
+  
 </p>   
 
 # 📊 GitHub Stats:
